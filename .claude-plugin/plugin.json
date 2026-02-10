@@ -1,0 +1,8 @@
+{
+  "name": "media-ingest",
+  "version": "1.0.0",
+  "description": "Catalog photos and video with AI-powered semantic tags, descriptions, and searchable database",
+  "author": {
+    "name": "Davis Boyd"
+  }
+}
