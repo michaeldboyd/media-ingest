@@ -1,0 +1,14 @@
+{
+  "name": "media-ingest",
+  "owner": {
+    "name": "Davis Boyd"
+  },
+  "plugins": [
+    {
+      "name": "media-ingest",
+      "source": "./",
+      "description": "AI-powered media cataloging with semantic tags, descriptions, and searchable SQLite database",
+      "version": "1.0.0"
+    }
+  ]
+}
